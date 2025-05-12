@@ -1,0 +1,27 @@
+<body>
+  <header>MakePlans - Texas Mission of Mercy</header>
+  <div class="container">
+    <section class="section" id="patient-section">
+      <!-- Patient info and selection controls here -->
+    </section>
+    <section class="section" id="service-section">
+      <!-- Service info -->
+    </section>
+    <section class="section" id="resources-section">
+      <!-- Resources info for different dates -->
+    </section>
+    <section class="section" id="calendar-section">
+      <button class="calendar-button">Select Date</button>
+      <div class="selected-info" id="date-display"></div>
+      <button class="next-step">Next</button>
+    </section>
+    <section class="section" id="time-section" style="display:none;">
+      <!-- Time selection -->
+      <button class="next-step">Next</button>
+    </section>
+    <section class="section" id="confirmation-section" style="display:none;">
+      <button class="verify-button">Verify Personal Info</button>
+    </section>
+  </div>
+  <footer>
+    &copy; 
