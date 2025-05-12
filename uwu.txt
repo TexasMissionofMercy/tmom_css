@@ -1,0 +1,22 @@
+/* Import Poppins font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Apply Poppins font to the entire body */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Style all buttons with the specified background color and optional enhancements */
+button {
+  background-color: #e4d6ec;
+  border: none; /* Remove default border if desired */
+  color: #000; /* Set text color for contrast, optional */
+  padding: 10px 20px; /* Adjust padding as needed */
+  cursor: pointer; /* Change cursor on hover */
+  border-radius: 4px; /* Optional: rounded corners */
+}
+
+/* Optional hover effect for buttons */
+button:hover {
+  background-color: #d4c2e1; /* Slightly darker shade on hover */
+}
