@@ -1,0 +1,54 @@
+
+/* Set background and font */
+body {
+  background-color: #f4f9fc;
+  font-family: 'Segoe UI', sans-serif;
+  color: #003366;
+  padding: 20px;
+}
+
+/* Style form fields */
+input[type="text"],
+input[type="tel"],
+input[type="email"],
+textarea,
+select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1.5px solid #007acc;
+  border-radius: 6px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+/* Highlight required field labels */
+label {
+  font-weight: 600;
+  color: #003366;
+}
+
+/* Style submit button */
+input[type="submit"],
+button {
+  background-color: #007acc;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover,
+button:hover {
+  background-color: #005b99;
+}
+
+/* Responsive design for mobile */
+@media screen and (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+}
