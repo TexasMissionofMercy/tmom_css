@@ -1,0 +1,77 @@
+
+/* Import Poppins font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* Base styling */
+body {
+  background-color: #e4d6ec;
+  font-family: 'Poppins', sans-serif;
+  color: #003366;
+  padding: 20px;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  max-width: 500px;
+  width: 100%;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Form elements */
+input[type="text"],
+input[type="tel"],
+input[type="email"],
+textarea,
+select {
+  width: 100%;
+  padding: 12px 15px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  border: 1.5px solid #007acc;
+  border-radius: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+  background: #fdfdff;
+}
+
+/* Label styles */
+label {
+  font-weight: 600;
+  color: #003366;
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Submit button */
+input[type="submit"],
+button {
+  background-color: #007acc;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  width: 100%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover,
+button:hover {
+  background-color: #005b99;
+}
+
+/* Responsive design */
+@media screen and (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+  .container {
+    padding: 20px;
+  }
+}
