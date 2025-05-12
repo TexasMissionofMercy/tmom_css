@@ -1,0 +1,204 @@
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="2GkqsYLXVXXvTRNUlypKJXHnpS0UKYWLTvvYrxxXJ9gNbYawXYo5pYJ6zLiGGgBQ_jL7u0-gN25C0Gjf7gxd0w">
+  <title>
+    Online booking for Texas Mission Of Mercy
+  </title>
+  <link rel="canonical" href="https://texasmissionofmercy.makeplans.com/services/28572/slots">
+  <link rel="preconnect" href="https://assets.makeplans.com">
+  <link rel="stylesheet" href="https://assets.makeplans.com/assets/slots_vanillajs-datepicker-3deeb67ce8978e223b6fa1bf25526e25301ef611f74633a4a0017cca38f42990.css" media="all">
+
+  <link rel="stylesheet" href="https://assets.makeplans.com/assets/theme_lviv-0d7527bfb4a566352f17174b1c2a399b39a3f3248b86f2dcf656f92c8a07f573.css" media="all">
+  
+  
+  
+<style type="text/css">
+@font-face {
+	font-family: 'Atlassian Sans';
+	font-style: normal;
+	font-weight: 400 653;
+	font-display: swap;
+	src:
+		local('AtlassianSans'),
+		local('Atlassian Sans Text'),
+		url('chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/AtlassianSans-latin.woff2') format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304,
+		U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style></head>
+
+<body>
+  <header class="header-background">
+    <div class="row">
+      <div class="container">
+        <div class="row">
+          <div class="col-3 col-t-2 col-t-offset-0 col-m-half col-m-offset-rm">
+            <div class="navbar-btns-logo">
+                    <!--
+                    <div class="navbar-element">
+                        <img class="icon-navbar" alt="cancel" src="https://assets.makeplans.com/assets/cancel-f89098c3a7f6c86554af26576f835cda5ed6bc7cb3c56437ad0ace0e0bcbcea6.svg" />
+                        <div class="tooltip">
+                            <img class="icon-navbar" alt="cancel" src="https://assets.makeplans.com/assets/cancel-f89098c3a7f6c86554af26576f835cda5ed6bc7cb3c56437ad0ace0e0bcbcea6.svg" />
+                            <span class="tooltiptext">Close</span>
+                        </div>
+                        <p>Close</p>
+                    </div>
+              -->
+              <a class="logo" href="/">
+              <span class="debonaire">
+                Texas Mission Of Mercy</span>
+</a>              </div>
+            </div>
+            <div class="
+            col-5
+            col-offset-4
+            col-t-2
+            col-t-offset-0
+            col-m-half
+            col-m-offset-rm
+            ">
+            <div class="navbar-btns">
+              <div class="navbar-element">
+                <a href="/person">
+                <img class="icon-navbar" alt="Account" src="https://assets.makeplans.com/assets/person-59dd92e069f2af613c746bffd07c15fe759633572b3f6e1bbc1a7e51fcb320a4.svg">
+                <div class="tooltip">
+                  <img class="icon-navbar" alt="Account" src="https://assets.makeplans.com/assets/person-59dd92e069f2af613c746bffd07c15fe759633572b3f6e1bbc1a7e51fcb320a4.svg">
+                  <span class="tooltiptext">Account</span>
+                </div>
+                <p>Account</p>
+</a>              </div>
+              <div class="navbar-element">
+                <span class="dropdown-trigger" data-for="menu">
+                  <img class="icon-navbar" alt="menu" src="https://assets.makeplans.com/assets/menu-14ae88835fc171010ea6bdcea859851bd2e8c52b42edcf670e88898108b57c85.svg">
+                  <div class="tooltip">
+                    <img class="icon-navbar" alt="menu" src="https://assets.makeplans.com/assets/menu-14ae88835fc171010ea6bdcea859851bd2e8c52b42edcf670e88898108b57c85.svg">
+                    <span class="tooltiptext">Menu</span>
+                  </div>
+                  <p>Menu</p>
+                </span>
+                <div class="dropdown" id="menu">
+                  <div class="dropdown-container">
+                    <a href="#">Get support</a>
+                    <a href="#">Terms &amp; Conditions</a>
+                    <a href="#">Privacy policy</a>
+                    <a href="#">Terms &amp; Conditions</a>
+                    <a href="https://makeplans.com">About MakePlans</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  
+<form id="select_booking_time" action="/bookings/new" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2GkqsYLXVXXvTRNUlypKJXHnpS0UKYWLTvvYrxxXJ9gNbYawXYo5pYJ6zLiGGgBQ_jL7u0-gN25C0Gjf7gxd0w" autocomplete="off">
+<input value="28572" autocomplete="off" type="hidden" name="booking[service_id]" id="booking_service_id">
+<input autocomplete="off" type="hidden" name="booking[booked_from]" id="booking_booked_from">
+<input autocomplete="off" type="hidden" name="booking[booked_to]" id="booking_booked_to">
+<input autocomplete="off" type="hidden" name="booking[selected_resources]" id="booking_selected_resources">
+<div class="height-between-elements5"></div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="container">
+      <div class="row">
+        <div class="
+            col-4
+            col-offset-2
+            col-t-2
+            col-t-offset-1
+            col-m-1
+            col-m-offset-rm
+          ">
+          <div id="datepicker" class="small" data-max-date="2026-05-12" data-date-select-url="/services/28572/slots?selected_resources="><div class="datepicker datepicker-inline active"><div class="datepicker-picker"><div class="datepicker-header"><div class="datepicker-title" style="display: none;"></div><div class="datepicker-controls"><button type="button" class="button prev-button prev-btn" tabindex="-1" disabled="">«</button><button type="button" class="button view-switch" tabindex="-1">May 2025</button><button type="button" class="button next-button next-btn" tabindex="-1">»</button></div></div><div class="datepicker-main"><div class="datepicker-view"><div class="days"><div class="days-of-week"><span class="dow">Mo</span><span class="dow">Tu</span><span class="dow">We</span><span class="dow">Th</span><span class="dow">Fr</span><span class="dow">Sa</span><span class="dow">Su</span></div><div class="datepicker-grid"><span data-date="1745816400000" class="datepicker-cell day prev disabled">28</span><span data-date="1745902800000" class="datepicker-cell day prev disabled">29</span><span data-date="1745989200000" class="datepicker-cell day prev disabled">30</span><span data-date="1746075600000" class="datepicker-cell day disabled">1</span><span data-date="1746162000000" class="datepicker-cell day disabled">2</span><span data-date="1746248400000" class="datepicker-cell day disabled">3</span><span data-date="1746334800000" class="datepicker-cell day disabled">4</span><span data-date="1746421200000" class="datepicker-cell day disabled">5</span><span data-date="1746507600000" class="datepicker-cell day disabled">6</span><span data-date="1746594000000" class="datepicker-cell day disabled">7</span><span data-date="1746680400000" class="datepicker-cell day disabled">8</span><span data-date="1746766800000" class="datepicker-cell day disabled">9</span><span data-date="1746853200000" class="datepicker-cell day disabled">10</span><span data-date="1746939600000" class="datepicker-cell day disabled">11</span><span data-date="1747026000000" class="datepicker-cell day selected focused">12</span><span data-date="1747112400000" class="datepicker-cell day">13</span><span data-date="1747198800000" class="datepicker-cell day">14</span><span data-date="1747285200000" class="datepicker-cell day">15</span><span data-date="1747371600000" class="datepicker-cell day">16</span><span data-date="1747458000000" class="datepicker-cell day">17</span><span data-date="1747544400000" class="datepicker-cell day">18</span><span data-date="1747630800000" class="datepicker-cell day">19</span><span data-date="1747717200000" class="datepicker-cell day">20</span><span data-date="1747803600000" class="datepicker-cell day">21</span><span data-date="1747890000000" class="datepicker-cell day">22</span><span data-date="1747976400000" class="datepicker-cell day">23</span><span data-date="1748062800000" class="datepicker-cell day">24</span><span data-date="1748149200000" class="datepicker-cell day">25</span><span data-date="1748235600000" class="datepicker-cell day">26</span><span data-date="1748322000000" class="datepicker-cell day">27</span><span data-date="1748408400000" class="datepicker-cell day">28</span><span data-date="1748494800000" class="datepicker-cell day">29</span><span data-date="1748581200000" class="datepicker-cell day">30</span><span data-date="1748667600000" class="datepicker-cell day">31</span><span data-date="1748754000000" class="datepicker-cell day next">1</span><span data-date="1748840400000" class="datepicker-cell day next">2</span><span data-date="1748926800000" class="datepicker-cell day next">3</span><span data-date="1749013200000" class="datepicker-cell day next">4</span><span data-date="1749099600000" class="datepicker-cell day next">5</span><span data-date="1749186000000" class="datepicker-cell day next">6</span><span data-date="1749272400000" class="datepicker-cell day next">7</span><span data-date="1749358800000" class="datepicker-cell day next">8</span></div></div></div></div><div class="datepicker-footer"><div class="datepicker-controls"><button type="button" class="button today-button today-btn" tabindex="-1" style="display: none;">Today</button><button type="button" class="button clear-button clear-btn" tabindex="-1" style="display: none;">Clear</button></div></div></div></div></div>
+        </div>
+
+        <div class="
+            col-4
+            col-offset-0
+            col-t-2
+            col-t-offset-1
+            col-m-1
+            col-m-offset-rm
+          ">
+          <div class="card-timepicker">
+              <h3 class="light">No availability on selected date. Please try another date.</h3>
+              <p>
+                Next available date is <a rel="nofollow, noindex" href="/services/28572/slots?from=2025-06-19&amp;selected_resources=">Thursday, 19 June 2025</a>
+                <br><br>
+                All pre-screen appointments are currently full.
+You are still welcome to attend the event as a walk-up patient. Walk-up patients will be seen on a first-come, first-served basis as time and resources allow.
+              </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="height-between-elements1"></div>
+<div class="height-between-elements1"></div>
+<div class="height-between-elements1"></div>
+<footer>
+  <div class="footer-padding">
+    <div class="row">
+      <div class="container">
+        <div class="row">
+          <div class="
+              col-4
+              col-offset-4
+              col-t-2
+              col-t-offset-1
+              col-m-1
+              col-m-offset-rm
+            ">
+            <button class="btn-main-booking-service" type="submit">Continue</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+</form>
+    <div class="footer-padding">
+      <div class="row">
+        <div class="container">
+          <div class="row">
+            <div class="
+
+              ">
+            <p>Important Pre-Screen Appointment Information
+<br>Please book your appointment only if you are 100% certain you can attend. As a mobile clinic, we are only on-site for specific dates, and appointments cannot be rescheduled or modified.</p>
+
+<p>If you can no longer attend, please cancel your appointment by emailing us at smiles@tmomvolunteer.org so we can offer the spot to someone else.</p>
+
+<p>Before You Book:
+<br>Check your work and personal schedule—we receive many cancellations due to work conflicts.</p>
+
+<p>Children are welcome, though we recommend attending alone if possible.</p>
+
+<p>We do not require ID, insurance, or any personal/medical documentation. We serve both insured and uninsured patients.</p>
+
+<p>If you take medication regularly, continue taking it on the day of your pre-screen and treatment. Skipping medication may cause harm.</p>
+
+<p>If You Miss Your Appointment:
+<br>You will no longer receive priority status on treatment day.</p>
+
+<p>You must attend as a walk-up, and your care will depend on our available capacity that day.</p>
+
+<p>Walk-ups are seen on a first-come, first-served basis, and treatment is not guaranteed.</p>
+
+<p>If No Appointments Are Available:
+<br>If booking is closed or full, you may still attend as a walk-up patient on treatment day. Walk-up care is based on capacity and availability.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<script src="https://assets.makeplans.com/assets/theme_lviv-5ad526d5aee4e0ecbca5c9189f0cbfcb156eb0207dd2c0da400964d53191eede.js" nonce=""></script>
+<script src="https://assets.makeplans.com/assets/slots_vanillajs-datepicker-3272a3f53b3d06123696c04bb7d94e5b923d3176af40093fba2b4b7bc9ce56ac.js" nonce=""></script>
+
+
+<div id="loom-companion-mv3" ext-id="liecbddmkiiihnedobmlmillhodjkdmb"><div id="shadow-host-companion"></div></div></body></html>
